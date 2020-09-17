@@ -9,8 +9,8 @@ public class Task02 {
         int a= 76;
         int b= a/10; // находим кол-во десятков
         int c= a%10; // берем остаток от деления числа на 10
-        System.out.println("десятки= " +b);
-        System.out.println("единицы= " +c);
+        System.out.println("Десятки= " +b);
+        System.out.println("Единицы= " +c);
 
     }
 }
